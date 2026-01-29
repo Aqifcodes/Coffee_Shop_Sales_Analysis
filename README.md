@@ -29,3 +29,9 @@ The dataset includes transactional coffee shop sales data with the following key
 - A small number of product categories contribute a majority of total revenue.
 - Product size significantly impacts revenue contribution across all categories.
 - Monthly sales show a clear trend indicating seasonal or demand-based variation.
+
+### Dashboard Overview
+The Excel dashboard provides an interactive summary of sales performance using
+pivot charts. Users can quickly assess trends, compare locations, and understand
+product-level contributions through visual analysis.
+
