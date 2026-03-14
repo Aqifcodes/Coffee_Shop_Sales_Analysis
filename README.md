@@ -35,3 +35,8 @@ The Excel dashboard provides an interactive summary of sales performance using
 pivot charts. Users can quickly assess trends, compare locations, and understand
 product-level contributions through visual analysis.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+
